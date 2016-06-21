@@ -1,0 +1,1 @@
+var userFeed=new Instafeed({limit:12,get:"user",userId:1065049433,accessToken:"1428999765.d8d1d50.15e22e7a195646048945c9682668bdf9",template:'<a class="item" href="{{link}}"><img class="img-responsive" src="{{image}}" /></a>'});userFeed.run();
