@@ -1,22 +1,8 @@
-Responsive HTML5 website template for web development/design agencies
+Template to be used as xanbit website , purchased from 3rdwavemedia. Below are the contact details in case of issues.
 
-Theme name:
-=======================================================================
-DevStudio
+This is html5 bootstrap template ready to be used. Just place these files in any server that can serve them statically.
 
-Theme version:
-=======================================================================
-v1.4
-
-Release Date:
-=======================================================================
-7 June 2016
-
-Author: 
-=======================================================================
-Xiaoying Riley at 3rd Wave Media
-
-Contact:
+Contact : 
 =======================================================================
 Web: http://themes.3rdwavemedia.com/
 Email: themes@3rdwavemedia.com
