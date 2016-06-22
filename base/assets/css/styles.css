@@ -245,7 +245,7 @@ body.no-header-wrapper {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  min-height: 400px;
+  min-height: 650px;
 }
 .header-wrapper-blog-home {
   background: #65758e url('../images/background/heading-background-3.jpg') no-repeat 50% top;
