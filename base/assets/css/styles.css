@@ -54,7 +54,7 @@ a.btn-cta,
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #eea740;
+  background: #a8b2b1;
   border: none;
   color: #fff;
 }
@@ -245,7 +245,7 @@ body.no-header-wrapper {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  min-height: 400px;
+  min-height: 650px;
 }
 .header-wrapper-blog-home {
   background: #65758e url('../images/background/heading-background-3.jpg') no-repeat 50% top;
@@ -464,17 +464,24 @@ body.no-header-wrapper {
 .home-promo .title span {
   display: block;
 }
+.home-promo .title .upper {
+  font-size: 70px;
+  font-family: 'Lucida Console', 'Lucida Sans Typewriter', monaco, 'Bitstream Vera Sans Mono', monospace;
+  font-weight: bold;
+  text-transform: lowercase;
+}
 .home-promo .title .middle {
   margin-top: 20px;
   margin-bottom: 20px;
-  font-size: 56px;
-  color: #71c4e0;
+  font-size: 20px;
+  font-style: italic;
+  color: #d6dde3;
 }
 .home-promo .title .bottom {
   font-family: 'Merriweather Sans', arial, sans-serif;
   font-style: italic;
   text-transform: lowercase;
-  font-weight: 500;
+  font-weight: 300;
 }
 .home-promo .btn {
   font-size: 20px;
@@ -512,16 +519,17 @@ body.no-header-wrapper {
 .who .benefits .item-inner {
   padding: 30px;
   padding-top: 45px;
-  background: #f8f9fa;
+  background: rgba(48, 56, 67, 0.9);
+  border-radius:50%;
 }
 .who .benefits .sub-title {
   font-weight: bold;
   font-size: 18px;
   margin-bottom: 15px;
-  color: #505c70;
+  color: #fff;
 }
 .who .benefits .desc {
-  color: #65758e;
+  color: #d6dde3;
 }
 /* ======= Latest work ======= */
 .latest-work {
