@@ -190,6 +190,7 @@ select {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  display: block;
 }
 .bg-slider-wrapper .flexslider .slide.slide-2 {
   background: #65758e url('../images/background/promo-background-2.jpg') no-repeat 50% top;
@@ -521,6 +522,11 @@ body.no-header-wrapper {
   padding-top: 45px;
   background: rgba(48, 56, 67, 0.9);
   border-radius:50%;
+}
+.who .benefits .item-inner-rectangle {
+  padding: 30px;
+  padding-top: 45px;
+  background: rgba(48, 56, 67, 0.9);
 }
 .who .benefits .sub-title {
   font-weight: bold;
